@@ -16,8 +16,10 @@ public class App
         System.out.println(sayHelloToSomeone("Edgar"));
         System.out.println(sayHelloToSomeone("Frank"));
         System.out.println(sayHelloToSomeone("Jonny"));
+        System.out.println(sayHelloToSomeone("Katie"));
+        System.out.println(sayHelloToSomeone("Loretta"));
         System.out.println(sayHelloToSomeone("Zena"));
-        System.out.println(sayGoodbye());
+                System.out.println(sayGoodbye());
     }
 
     public static String sayHello(){
